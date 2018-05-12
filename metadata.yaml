@@ -1,0 +1,29 @@
+_repo: The-Poets-LincolnTributes-in-Verse-to-the-Martyred-President_30420
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Oldroyd, Osborn H. (Osborn Hamiline)
+    birthdate: 1842
+    deathdate: 1930
+    gutenberg_agent_id: '34600'
+    url: http://www.gutenberg.org/2009/agents/34600
+description: ''
+gutenberg_issued: '2009-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30420'
+  lccn: '16002036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Poetry'
+- !lcc 'E456'
+title: 'The Poets'' Lincoln
+
+  Tributes in Verse to the Martyred President'
+url: http://www.gutenberg.org/ebooks/30420
